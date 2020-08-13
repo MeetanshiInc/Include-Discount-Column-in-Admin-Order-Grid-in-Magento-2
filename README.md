@@ -13,4 +13,4 @@ Faster and smoother order processing gives a delightful shopping experience. It 
 
 One such instance is to add the custom discount column in admin order grid. The admin can easily manage the discounts assigned with each order, analyze the benefits of offering discounts, etc.
 
-Follow the detailed guide to [Include Discount Column in Admin Order Grid without Adding Field in sales_order_grid table in Magento 2](https://meetanshi.com/blog/include-discount-column-in-magento-2-admin-order-grid)
+Follow the detailed guide to [Include Discount Column in Admin Order Grid without Adding Field in sales_order_grid table in Magento 2](https://meetanshi.com/blog/include-discount-column-in-admin-order-grid-in-magento-2/)
